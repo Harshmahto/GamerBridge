@@ -1,0 +1,17 @@
+{
+  "name": "gamerbridgebackend",
+  "version": "1.0.0",
+  "description": "gamer profile application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "game",
+    "gamer"
+  ],
+  "author": "Harsh Mahto",
+  "license": "ISC"
+}
